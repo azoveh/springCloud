@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="consumer-hello" />
+        <module name="mall-web" />
+        <module name="product-service" />
+        <module name="product-service-api" />
+        <module name="service-discovery" />
+        <module name="service-discovery (1)" />
+        <module name="service-discovery (2)" />
+        <module name="service-hello" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="consumer-hello" target="1.8" />
+      <module name="mall-web" target="1.8" />
+      <module name="product-service" target="1.8" />
+      <module name="product-service-api" target="1.8" />
+      <module name="service-discovery" target="1.8" />
+      <module name="service-discovery (1)" target="1.8" />
+      <module name="service-discovery (2)" target="1.8" />
+      <module name="service-hello" target="1.8" />
+      <module name="twostepsfromjava-cloud-parent" target="1.8" />
+      <module name="twostepsfromjava-cloud-parent (1)" target="1.8" />
+      <module name="twostepsfromjava-cloud-parent (2)" target="1.8" />
+      <module name="twostepsfromjava-clouds" target="1.8" />
+      <module name="twostepsfromjava-clouds (1)" target="1.8" />
+      <module name="twostepsfromjava-clouds (2)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

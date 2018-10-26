@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/service-discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka/consumer-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka/parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka/service-discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka/service-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign/mall-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign/parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign/product-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign/product-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign/service-discovery" charset="UTF-8" />
+  </component>
+</project>

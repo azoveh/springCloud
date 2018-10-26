@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/config-client/config-client.iml" filepath="$PROJECT_DIR$/config/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-server/config-server.iml" filepath="$PROJECT_DIR$/config/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/consumer-hello/consumer-hello.iml" filepath="$PROJECT_DIR$/eureka/consumer-hello/consumer-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/mall-web/mall-web.iml" filepath="$PROJECT_DIR$/feign/mall-web/mall-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/product-service/product-service.iml" filepath="$PROJECT_DIR$/feign/product-service/product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/product-service-api/product-service-api.iml" filepath="$PROJECT_DIR$/feign/product-service-api/product-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/service-discovery/service-discovery.iml" filepath="$PROJECT_DIR$/feign/service-discovery/service-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/service-discovery/service-discovery (1).iml" filepath="$PROJECT_DIR$/config/service-discovery/service-discovery (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/service-discovery/service-discovery (2).iml" filepath="$PROJECT_DIR$/eureka/service-discovery/service-discovery (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/service-hello/service-hello.iml" filepath="$PROJECT_DIR$/eureka/service-hello/service-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springCloud.iml" filepath="$PROJECT_DIR$/.idea/springCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/parent/twostepsfromjava-cloud-parent.iml" filepath="$PROJECT_DIR$/feign/parent/twostepsfromjava-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/parent/twostepsfromjava-cloud-parent (1).iml" filepath="$PROJECT_DIR$/config/parent/twostepsfromjava-cloud-parent (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/parent/twostepsfromjava-cloud-parent (2).iml" filepath="$PROJECT_DIR$/eureka/parent/twostepsfromjava-cloud-parent (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/twostepsfromjava-clouds.iml" filepath="$PROJECT_DIR$/feign/twostepsfromjava-clouds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/twostepsfromjava-clouds (1).iml" filepath="$PROJECT_DIR$/config/twostepsfromjava-clouds (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/twostepsfromjava-clouds (2).iml" filepath="$PROJECT_DIR$/eureka/twostepsfromjava-clouds (2).iml" />
+    </modules>
+  </component>
+</project>
